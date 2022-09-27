@@ -33,7 +33,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="45" height="45" />
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MindRiddler&count_private=true&show_icons=true&theme=github_dark&card_width=513)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MindRiddler&layout=compact&theme=github_dark&card_width=463)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mindriddler&count_private=true&show_icons=true&theme=github_dark&card_width=513)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mindriddler&layout=compact&theme=github_dark&card_width=463)](https://github.com/anuraghazra/github-readme-stats)
 
 
