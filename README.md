@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fredrik</h1>
-<h3 align="center">Im a DevOps student from Sweden. Currently studying at Nackademin in Stockholm!</h3>
+<h3 align="center">Im a DevOps Engineer student from Sweden. Currently studying at Nackademin in Stockholm!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wikipedia11&label=Profile%20views&color=0e75b6&style=flat" alt="wikipedia11" /> </p>
 
