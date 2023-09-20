@@ -85,7 +85,7 @@ jobs:
           base: ""
           plugin_activity: yes
           plugin_activity_limit: 7
-          plugin_activity_skipped: mindriddler
+          plugin_activity_skipped: mindriddler, test
           plugin_activity_timestamps: yes
           plugin_activity_visibility: all
           plugin_activity_filter: push, issue, pr, ref/create, ref/delete, release, review, comment, fork, public, 
