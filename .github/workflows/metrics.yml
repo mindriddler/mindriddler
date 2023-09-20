@@ -3,10 +3,7 @@ on:
   workflow_dispatch:
   schedule:
     # Runs at 00:00AM UTC
-    - cron: '0 10,22 * * *'
-  push:
-    branches:
-        - main    
+    - cron: '0 10,22 * * *'  
     
 jobs:
   github-metrics:
