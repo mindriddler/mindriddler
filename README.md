@@ -79,7 +79,7 @@
 </details>
 
 <h1 align="center">💻 Recent activity</h1>
-<div align="center">
+<!-- <div align="center">
   <table width="100%">
     <tr>
         <td>
@@ -87,7 +87,7 @@
         </td>
     </tr>
   </table>
-</div>
+</div> -->
 
 <table width="100%">
     <tr>
