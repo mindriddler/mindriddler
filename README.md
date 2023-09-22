@@ -2,8 +2,6 @@
 
 <h2 align="center"><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you!</b> 😊</h2>
 
-![](https://hit.yhype.me/github/profile?user_id=112268732)
-
 <p align="center">
   
   <a href="https://linkedin.com/in/fredrik-m/">
@@ -175,3 +173,4 @@ PHP                      1 repo              ██░░░░░░░░░�
 ---
 
 DISCLAIMER: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
+![](https://hit.yhype.me/github/profile?user_id=112268732)
