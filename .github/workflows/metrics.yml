@@ -51,7 +51,7 @@ jobs:
           token: ${{ secrets.GH_TOKEN }}
           base: ""
           plugin_stars: yes
-          plugin_stars_limit: 7
+          plugin_stars_limit: 5
   
   mildly-interesting-facts:
     runs-on: ubuntu-latest
