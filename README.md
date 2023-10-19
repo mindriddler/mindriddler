@@ -73,6 +73,7 @@
 </details>
 <details>
   <summary><h3>📜 My certifications</h3></summary>
+  
   + [**Associate Cloud Engineer** (October 2023)](https://google.accredible.com/64f0fb14-bbff-4162-b770-2b7dd8f1c586)
   + [**Terraform Associate** (August 2023)](https://www.credly.com/badges/e2eb1846-4eb6-4d2d-ab6c-69b677d0f57e)
 <hr>
