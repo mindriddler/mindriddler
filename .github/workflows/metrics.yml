@@ -84,7 +84,7 @@ jobs:
           plugin_activity_timestamps: yes
           plugin_activity_visibility: all
           plugin_activity_filter: push, issue, pr, ref/create, ref/delete, release, review, comment, fork, public
-          plugin_activity_skipped: mindriddler, test, backup. test_gcf
+          plugin_activity_skipped: mindriddler, test, backup, test_gcf
 
   code-snippet-of-the-day:
     runs-on: ubuntu-latest
