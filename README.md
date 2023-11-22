@@ -24,6 +24,43 @@
   </a>
   <img src="https://komarev.com/ghpvc/?username=mindriddler&style=for-the-badge" alt"Profile Views">
 </p>
+
+<hr>
+
+<h1 align="center">📜 My Certifications</h1>
+<div align="center">
+  <table>
+    <tr>
+      <th>Certification</th>
+      <th>Link</th>
+      <th>Issuer</th>
+      <th>Date of Completion</th>
+      <th>Date of Expiration</th>
+    </tr>
+    <tr>
+      <td>Professional Cloud Architect</td>
+      <td><a href="https://google.cloud/professional-cloud-architect">View</a></td>
+      <td>Google Cloud</td>
+      <td>2023-11-21</td>
+      <td>2025-11-21</td>
+    </tr>
+    <tr>
+      <td>Associate Cloud Engineer</td>
+      <td><a href="https://google.accredible.com/64f0fb14-bbff-4162-b770-2b7dd8f1c586">View</a></td>
+      <td>Google Cloud</td>
+      <td>2023-10-18</td>
+      <td>2026-10-18</td>
+    </tr>
+    <tr>
+      <td>Terraform Associate</td>
+      <td><a href="https://www.credly.com/badges/e2eb1846-4eb6-4d2d-ab6c-69b677d0f57e">View</a></td>
+      <td>HashiCorp</td>
+      <td>2023-08-01</td>
+      <td>2025-08-01</td>
+    </tr>
+  </table>
+</div>
+
 <hr>
 
 <div align="center">
@@ -40,7 +77,6 @@
 <hr>
 
 <h1 align="center">💻 Tech Stack</h1>
-<h2 align="center">⭐ Favorites</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
   <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform">
@@ -52,32 +88,19 @@
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Scrip">
+  <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell">
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown">    
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres">
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
+  <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" alt="Jira">
+  <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
+  <img src="https://img.shields.io/badge/rancher-%230075A8.svg?style=for-the-badge&logo=rancher&logoColor=white" alt="Rancher">
+  <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" alt="Trello">
 </p>
 
-<details>
-  <summary><h3>🛠 A few more</h3></summary>
-  
-  <p align="center">
-    <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell">
-    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-    <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown">
-    <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres">
-    <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-    <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
-    <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" alt="Jira">
-    <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
-    <img src="https://img.shields.io/badge/rancher-%230075A8.svg?style=for-the-badge&logo=rancher&logoColor=white" alt="Rancher">
-    <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" alt="Trello">
-  </p>
-  <hr>
-</details>
-<details>
-  <summary><h3>📜 My certifications</h3></summary>
-  
-  + [**Associate Cloud Engineer** (October 2023)](https://google.accredible.com/64f0fb14-bbff-4162-b770-2b7dd8f1c586)
-  + [**Terraform Associate** (August 2023)](https://www.credly.com/badges/e2eb1846-4eb6-4d2d-ab6c-69b677d0f57e)
 <hr>
-</details>
 
 <h1 align="center">💻 Recent activity</h1>
 <div align="center">
