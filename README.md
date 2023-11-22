@@ -39,7 +39,7 @@
     </tr>
     <tr>
       <td>Professional Cloud Architect</td>
-      <td><a href="https://google.cloud/professional-cloud-architect">View</a></td>
+      <td><a href="https://google.accredible.com/41964977-f869-4726-93d0-182e54261d43">View</a></td>
       <td>Google Cloud</td>
       <td>2023-11-21</td>
       <td>2025-11-21</td>
