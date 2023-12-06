@@ -38,6 +38,13 @@
       <th>Date of Expiration</th>
     </tr>
     <tr>
+      <td>Professinal Cloud DevOps Engineer</td>
+      <td><a href="https://google.accredible.com/422cc724-bc7d-4b33-9e36-3c9abbe3769f">View</a></td>
+      <td>Google Cloud</td>
+      <td>2023-12-05</td>
+      <td>2025-12-05</td>
+    </tr>
+    <tr>
       <td>Professional Cloud Architect</td>
       <td><a href="https://google.accredible.com/41964977-f869-4726-93d0-182e54261d43">View</a></td>
       <td>Google Cloud</td>
