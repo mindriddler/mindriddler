@@ -65,6 +65,13 @@
       <td>2023-08-01</td>
       <td>2025-08-01</td>
     </tr>
+    <tr>
+      <td>Cloud Digital Leader</td>
+      <td><a href=""></a></td>
+      <td>Google Cloud</td>
+      <td>2023-12-11</td>
+      <td>2026-12-11</td>
+    </tr>
   </table>
 </div>
 
