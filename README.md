@@ -67,7 +67,7 @@
     </tr>
     <tr>
       <td>Cloud Digital Leader</td>
-      <td><a href=""></a></td>
+      <td><a href=""></a>View</td>
       <td>Google Cloud</td>
       <td>2023-12-11</td>
       <td>2026-12-11</td>
