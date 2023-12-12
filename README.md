@@ -29,18 +29,17 @@
 
 <h1 align="center">📜 My Certifications</h1>
 <div align="center">
-  <img src="assets/certs/PCA.png" alt="Professional Cloud Architect" width="200">
-  <img src="assets/certs/PCDEVOPSE.png" alt="Professional Cloud DevOps Engineer" width="200">
-  <img src="assets/certs/ACE.png" alt="Associate Cloud Engineer" width="200">
-  <img src="assets/certs/Terraform.png" alt="Terraform Associate" width="200">
-  <img src="assets/certs/CDL.png" alt="Cloud Digital Leader" width="200">
+  <img src="assets/certs/PCA.png" alt="Professional Cloud Architect" width="150">
+  <img src="assets/certs/PCDEVOPSE.png" alt="Professional Cloud DevOps Engineer" width="150">
+  <img src="assets/certs/ACE.png" alt="Associate Cloud Engineer" width="150">
+  <img src="assets/certs/Terraform.png" alt="Terraform Associate" width="150">
+  <img src="assets/certs/CDL.png" alt="Cloud Digital Leader" width="150">
   
   <details>
     <summary style="font-size: larger; font-weight: bold;">View all certifications 📜</summary>
     
   | Certification                               | Issuer                                                                                                                           | Date of Completion | Date of Expiration | Link |
   |---------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|--------------------|--------------------|------|
-  | Professional Cloud Developer                | ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) | TBD                | TBD                | TBD  |
   | Professional Cloud DevOps Engineer          | ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) | 2023-12-05         | 2025-12-05         | [View](https://google.accredible.com/422cc724-bc7d-4b33-9e36-3c9abbe3769f) |
   | Professional Cloud Architect                | ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) | 2023-11-21         | 2025-11-21         | [View](https://google.accredible.com/41964977-f869-4726-93d0-182e54261d43) |
   | Associate Cloud Engineer                    | ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) | 2023-10-18         | 2026-10-18         | [View](https://google.accredible.com/64f0fb14-bbff-4162-b770-2b7dd8f1c586) |
