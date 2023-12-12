@@ -67,7 +67,7 @@
     </tr>
     <tr>
       <td>Cloud Digital Leader</td>
-      <td><a href=""></a>View</td>
+      <td><a href="https://www.credential.net/224c4c88-56b6-414c-a2ae-232f117e1506"></a>View</td>
       <td>Google Cloud</td>
       <td>2023-12-11</td>
       <td>2026-12-11</td>
