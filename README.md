@@ -29,17 +29,25 @@
 
 <h1 align="center">📜 My Certifications</h1>
 <div align="center">
-  <img src="assets/certs/PCA.png" alt="Professional Cloud Architect" width="150">
-  <img src="assets/certs/PCDEVOPSE.png" alt="Professional Cloud DevOps Engineer" width="150">
-  <img src="assets/certs/ACE.png" alt="Associate Cloud Engineer" width="150">
-  <img src="assets/certs/CDL.png" alt="Cloud Digital Leader" width="150">
+  <a href="https://google.accredible.com/422cc724-bc7d-4b33-9e36-3c9abbe3769f">
+    <img src="assets/certs/PCDEVOPSE.png" alt="Professional Cloud DevOps Engineer" width="150">
+  </a>
+  <a href="https://google.accredible.com/41964977-f869-4726-93d0-182e54261d43">
+    <img src="assets/certs/PCA.png" alt="Professional Cloud Architect" width="150">
+  </a>
+  <a href="https://google.accredible.com/64f0fb14-bbff-4162-b770-2b7dd8f1c586">
+    <img src="assets/certs/ACE.png" alt="Associate Cloud Engineer" width="150">
+  </a>
+  <a href="https://www.credential.net/224c4c88-56b6-414c-a2ae-232f117e1506">
+    <img src="assets/certs/CDL.png" alt="Cloud Digital Leader" width="150">
+  </a>
   <a href="https://www.credly.com/badges/e2eb1846-4eb6-4d2d-ab6c-69b677d0f57e">
     <img src="assets/certs/Terraform.png" alt="Terraform Associate" width="150">
   </a>
 
   
   <details>
-    <summary style="font-size: larger; font-weight: bold;">View all certifications 📜</summary>
+    <summary style="font-size: larger; font-weight: bold;">To view more details click here 📜</summary>
     
   | Certification                               | Issuer                                                                                                                           | Date of Completion | Date of Expiration | Link |
   |---------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|--------------------|--------------------|------|
