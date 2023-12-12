@@ -29,50 +29,59 @@
 
 <h1 align="center">📜 My Certifications</h1>
 <div align="center">
-  <table>
-    <tr>
-      <th>Certification</th>
-      <th>Link</th>
-      <th>Issuer</th>
-      <th>Date of Completion</th>
-      <th>Date of Expiration</th>
-    </tr>
-    <tr>
-      <td>Professinal Cloud DevOps Engineer</td>
-      <td><a href="https://google.accredible.com/422cc724-bc7d-4b33-9e36-3c9abbe3769f">View</a></td>
-      <td>Google Cloud</td>
-      <td>2023-12-05</td>
-      <td>2025-12-05</td>
-    </tr>
-    <tr>
-      <td>Professional Cloud Architect</td>
-      <td><a href="https://google.accredible.com/41964977-f869-4726-93d0-182e54261d43">View</a></td>
-      <td>Google Cloud</td>
-      <td>2023-11-21</td>
-      <td>2025-11-21</td>
-    </tr>
-    <tr>
-      <td>Associate Cloud Engineer</td>
-      <td><a href="https://google.accredible.com/64f0fb14-bbff-4162-b770-2b7dd8f1c586">View</a></td>
-      <td>Google Cloud</td>
-      <td>2023-10-18</td>
-      <td>2026-10-18</td>
-    </tr>
-    <tr>
-      <td>Terraform Associate</td>
-      <td><a href="https://www.credly.com/badges/e2eb1846-4eb6-4d2d-ab6c-69b677d0f57e">View</a></td>
-      <td>HashiCorp</td>
-      <td>2023-08-01</td>
-      <td>2025-08-01</td>
-    </tr>
-    <tr>
-      <td>Cloud Digital Leader</td>
-      <td><a href="https://www.credential.net/224c4c88-56b6-414c-a2ae-232f117e1506">View</a></td>
-      <td>Google Cloud</td>
-      <td>2023-12-11</td>
-      <td>2026-12-11</td>
-    </tr>
-  </table>
+  <p align="center">
+    <img src="assets/PCA.png" width="165" style="vertical-align: middle;">
+    <img src="assets/PCDE.png" width="150" style="vertical-align: middle;">
+    <img src="assets/ACE.png" width="150" style="vertical-align: middle;">
+    <img src="assets/Terraform.png" width="150" style="vertical-align: middle;">
+  </p>
+  <details>
+    <summary>Click to view all certifications</summary>
+    <table>
+      <tr>
+        <th>Certification</th>
+        <th>Link</th>
+        <th>Issuer</th>
+        <th>Date of Completion</th>
+        <th>Date of Expiration</th>
+      </tr>
+      <tr>
+        <td>Professinal Cloud DevOps Engineer</td>
+        <td><a href="https://google.accredible.com/422cc724-bc7d-4b33-9e36-3c9abbe3769f">View</a></td>
+        <td><img src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud"></td>
+        <td>2023-12-05</td>
+        <td>2025-12-05</td>
+      </tr>
+      <tr>
+        <td>Professional Cloud Architect</td>
+        <td><a href="https://google.accredible.com/41964977-f869-4726-93d0-182e54261d43">View</a></td>
+        <td><img src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud"></td>
+        <td>2023-11-21</td>
+        <td>2025-11-21</td>
+      </tr>
+      <tr>
+        <td>Associate Cloud Engineer</td>
+        <td><a href="https://google.accredible.com/64f0fb14-bbff-4162-b770-2b7dd8f1c586">View</a></td>
+        <td><img src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud"></td>
+        <td>2023-10-18</td>
+        <td>2026-10-18</td>
+      </tr>
+      <tr>
+        <td>Terraform Associate</td>
+        <td><a href="https://www.credly.com/badges/e2eb1846-4eb6-4d2d-ab6c-69b677d0f57e">View</a></td>
+        <td><img src="https://img.shields.io/badge/HashiCorp-black.svg?style=for-the-badge&logo=HashiCorp&logoColor=white" alt="Google Cloud"></td>
+        <td>2023-08-01</td>
+        <td>2025-08-01</td>
+      </tr>
+      <tr>
+        <td>Cloud Digital Leader</td>
+        <td><a href="https://www.credential.net/224c4c88-56b6-414c-a2ae-232f117e1506">View</a></td>
+        <td><img src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud"></td>
+        <td>2023-12-11</td>
+        <td>2026-12-11</td>
+      </tr>
+    </table>
+  </details>
 </div>
 
 <hr>
