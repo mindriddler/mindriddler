@@ -30,7 +30,7 @@
 <h1 align="center">📜 My Certifications</h1>
 <div align="center">
   <p align="center">
-    <img src="assets/PCA.png" width="165" style="vertical-align: middle;">
+    <img src="assets/PCA.png" width="150" style="vertical-align: middle;">
     <img src="assets/PCDE.png" width="150" style="vertical-align: middle;">
     <img src="assets/ACE.png" width="150" style="vertical-align: middle;">
     <img src="assets/Terraform.png" width="150" style="vertical-align: middle;">
