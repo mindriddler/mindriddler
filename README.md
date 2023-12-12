@@ -33,7 +33,10 @@
   <img src="assets/certs/PCDEVOPSE.png" alt="Professional Cloud DevOps Engineer" width="150">
   <img src="assets/certs/ACE.png" alt="Associate Cloud Engineer" width="150">
   <img src="assets/certs/CDL.png" alt="Cloud Digital Leader" width="150">
-  <img src="assets/certs/Terraform.png" alt="Terraform Associate" width="150">
+  <a href="https://www.credly.com/badges/e2eb1846-4eb6-4d2d-ab6c-69b677d0f57e">
+    <img src="assets/certs/Terraform.png" alt="Terraform Associate" width="150">
+  </a>
+
   
   <details>
     <summary style="font-size: larger; font-weight: bold;">View all certifications 📜</summary>
