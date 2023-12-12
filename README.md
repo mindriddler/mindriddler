@@ -22,67 +22,41 @@
   <a href="https://github.com/mindriddler">
     <img src="https://img.shields.io/github/followers/mindriddler?label=Follow&style=for-the-badge" alt="GitHub followers">
   </a>
-  <img src="https://komarev.com/ghpvc/?username=mindriddler&style=for-the-badge" alt"Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=mindriddler&style=for-the-badge" alt="Profile Views">
 </p>
 
 <hr>
 
 <h1 align="center">📜 My Certifications</h1>
 <div align="center">
-  <p align="center">
-    <img src="assets/PCA.png" width="150" style="vertical-align: middle;">
-    <img src="assets/PCDE.png" width="150" style="vertical-align: middle;">
-    <img src="assets/ACE.png" width="150" style="vertical-align: middle;">
-    <img src="assets/Terraform.png" width="150" style="vertical-align: middle;">
-  </p>
+  <img src="assets/certs/PCA.png" alt="Professional Cloud Architect" width="200">
+  <img src="assets/certs/PCDEVOPSE.png" alt="Professional Cloud DevOps Engineer" width="200">
+  <img src="assets/certs/ACE.png" alt="Associate Cloud Engineer" width="200">
+  <img src="assets/certs/Terraform.png" alt="Terraform Associate" width="200">
+  <img src="assets/certs/CDL.png" alt="Cloud Digital Leader" width="200">
+  
   <details>
-    <summary>Click to view all certifications</summary>
-    <table>
-      <tr>
-        <th>Certification</th>
-        <th>Link</th>
-        <th>Issuer</th>
-        <th>Date of Completion</th>
-        <th>Date of Expiration</th>
-      </tr>
-      <tr>
-        <td>Professinal Cloud DevOps Engineer</td>
-        <td><a href="https://google.accredible.com/422cc724-bc7d-4b33-9e36-3c9abbe3769f">View</a></td>
-        <td><img src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud"></td>
-        <td>2023-12-05</td>
-        <td>2025-12-05</td>
-      </tr>
-      <tr>
-        <td>Professional Cloud Architect</td>
-        <td><a href="https://google.accredible.com/41964977-f869-4726-93d0-182e54261d43">View</a></td>
-        <td><img src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud"></td>
-        <td>2023-11-21</td>
-        <td>2025-11-21</td>
-      </tr>
-      <tr>
-        <td>Associate Cloud Engineer</td>
-        <td><a href="https://google.accredible.com/64f0fb14-bbff-4162-b770-2b7dd8f1c586">View</a></td>
-        <td><img src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud"></td>
-        <td>2023-10-18</td>
-        <td>2026-10-18</td>
-      </tr>
-      <tr>
-        <td>Terraform Associate</td>
-        <td><a href="https://www.credly.com/badges/e2eb1846-4eb6-4d2d-ab6c-69b677d0f57e">View</a></td>
-        <td><img src="https://img.shields.io/badge/HashiCorp-black.svg?style=for-the-badge&logo=HashiCorp&logoColor=white" alt="Google Cloud"></td>
-        <td>2023-08-01</td>
-        <td>2025-08-01</td>
-      </tr>
-      <tr>
-        <td>Cloud Digital Leader</td>
-        <td><a href="https://www.credential.net/224c4c88-56b6-414c-a2ae-232f117e1506">View</a></td>
-        <td><img src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud"></td>
-        <td>2023-12-11</td>
-        <td>2026-12-11</td>
-      </tr>
-    </table>
+    <summary style="font-size: larger; font-weight: bold;">View all certifications 📜</summary>
+    
+  | Certification                               | Issuer                                                                                                                           | Date of Completion | Date of Expiration | Link |
+  |---------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|--------------------|--------------------|------|
+  | Professional Cloud Developer                | ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) | TBD                | TBD                | TBD  |
+  | Professional Cloud DevOps Engineer          | ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) | 2023-12-05         | 2025-12-05         | [View](https://google.accredible.com/422cc724-bc7d-4b33-9e36-3c9abbe3769f) |
+  | Professional Cloud Architect                | ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) | 2023-11-21         | 2025-11-21         | [View](https://google.accredible.com/41964977-f869-4726-93d0-182e54261d43) |
+  | Associate Cloud Engineer                    | ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) | 2023-10-18         | 2026-10-18         | [View](https://google.accredible.com/64f0fb14-bbff-4162-b770-2b7dd8f1c586) |
+  | Terraform Associate                         | ![HashiCorp](https://img.shields.io/badge/HashiCorp-black.svg?style=for-the-badge&logo=HashiCorp&logoColor=white)                | 2023-08-01         | 2025-08-01         | [View](https://www.credly.com/badges/e2eb1846-4eb6-4d2d-ab6c-69b677d0f57e) |
+  | Cloud Digital Leader                        | ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) | 2023-12-11         | 2026-12-11         | [View](https://www.credential.net/224c4c88-56b6-414c-a2ae-232f117e1506) |
   </details>
 </div>
+
+<!---
+  | Professional Data Engineer                  | ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) | TBD                | TBD                | TBD  | 
+  | Professional Cloud Database Engineer        | ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) | TBD                | TBD                | TBD  |
+  | Professional Cloud Security Engineer        | ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) | TBD                | TBD                | TBD  |
+  | Professional Cloud Network Engineer         | ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) | TBD                | TBD                | TBD  |
+  | Professional Google Workspace Administrator | ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) | TBD                | TBD                | TBD  |
+-->
+
 
 <hr>
 
