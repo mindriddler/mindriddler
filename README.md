@@ -54,7 +54,7 @@
     
   | Certification                               | Issuer                                                                                                                           | Date of Completion | Date of Expiration | Link                                                                       |
   |---------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|--------------------|--------------------|----------------------------------------------------------------------------|
-  | Professional Cloud Developer                | ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) | 2023-12-13         | 2025-12-13         | [View](https://google.accredible.com/5ed79c37-3332-442d-8f69-def01a706d1c)                                                                   |
+  | Professional Cloud Developer                | ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) | 2023-12-13         | 2025-12-13         | [View](https://google.accredible.com/5ed79c37-3332-442d-8f69-def01a706d1c) |
   | Professional Cloud DevOps Engineer          | ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) | 2023-12-05         | 2025-12-05         | [View](https://google.accredible.com/422cc724-bc7d-4b33-9e36-3c9abbe3769f) |
   | Professional Cloud Architect                | ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) | 2023-11-21         | 2025-11-21         | [View](https://google.accredible.com/41964977-f869-4726-93d0-182e54261d43) |
   | Associate Cloud Engineer                    | ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) | 2023-10-18         | 2026-10-18         | [View](https://google.accredible.com/64f0fb14-bbff-4162-b770-2b7dd8f1c586) |
@@ -122,7 +122,6 @@
         </td>
     </tr>
   </table>
-</div>
 
 <table width="100%">
     <tr>
@@ -133,6 +132,7 @@
     </tr>
 </table>
 <hr>
+
 
 <details>
   <summary><h3>🛢️ Some data</h3></summary>
@@ -206,6 +206,7 @@ PHP                      1 repo              █░░░░░░░░░░�
  Last Updated on 16/12/2023 22:10:26 UTC
 <!--END_SECTION:waka-->
 DISCLAIMER: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
+</div>
 </details>
 
 ---
