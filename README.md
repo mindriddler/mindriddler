@@ -54,6 +54,7 @@
     
   | Certification                               | Issuer                                                                                                                           | Date of Completion | Date of Expiration | Link                                                                       |
   |---------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|--------------------|--------------------|----------------------------------------------------------------------------|
+  | Professional Cloud Network Engineer         | ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) | 2023-12-19         | 2025-12-19         | [View]()  
   | Professional Cloud Developer                | ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) | 2023-12-13         | 2025-12-13         | [View](https://google.accredible.com/5ed79c37-3332-442d-8f69-def01a706d1c) |
   | Professional Cloud DevOps Engineer          | ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) | 2023-12-05         | 2025-12-05         | [View](https://google.accredible.com/422cc724-bc7d-4b33-9e36-3c9abbe3769f) |
   | Professional Cloud Architect                | ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) | 2023-11-21         | 2025-11-21         | [View](https://google.accredible.com/41964977-f869-4726-93d0-182e54261d43) |
@@ -67,7 +68,6 @@
   | Professional Data Engineer                  | ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) | TBD                | TBD                | TBD  | 
   | Professional Cloud Database Engineer        | ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) | TBD                | TBD                | TBD  |
   | Professional Cloud Security Engineer        | ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) | TBD                | TBD                | TBD  |
-  | Professional Cloud Network Engineer         | ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) | TBD                | TBD                | TBD  |
   | Professional Google Workspace Administrator | ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) | TBD                | TBD                | TBD  |
 -->
 
