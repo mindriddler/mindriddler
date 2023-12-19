@@ -29,6 +29,9 @@
 
 <h1 align="center">📜 My Certifications</h1>
 <div align="center">
+  <a href="">
+    <img src="assets/certs/PCNE.png" alt="Professional Cloud Network Engineer" width="150">
+  </a>
   <a href="https://google.accredible.com/5ed79c37-3332-442d-8f69-def01a706d1c">
     <img src="assets/certs/PCD.png" alt="Professional Cloud Developer" width="150">
   </a>
