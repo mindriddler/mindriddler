@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="573" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="540" class="">
     <defs>
         <style/>
     </defs>
@@ -15,6 +15,22 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M8.878.392a1.75 1.75 0 00-1.756 0l-5.25 3.045A1.75 1.75 0 001 4.951v6.098c0 .624.332 1.2.872 1.514l5.25 3.045a1.75 1.75 0 001.756 0l5.25-3.045c.54-.313.872-.89.872-1.514V4.951c0-.624-.332-1.2-.872-1.514L8.878.392zM7.875 1.69a.25.25 0 01.25 0l4.63 2.685L8 7.133 3.245 4.375l4.63-2.685zM2.5 5.677v5.372c0 .09.047.171.125.216l4.625 2.683V8.432L2.5 5.677zm6.25 8.271l4.625-2.683a.25.25 0 00.125-.216V5.677L8.75 8.432v5.516z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Released
+                                        <span class="bold">v0.5.11</span>
+                                        of
+                                        <span class="repo">mindriddler/discord-bot</span>
+                                    </div>
+                                </div>
+                                <div class="timestamp">2 Jan 2024, 11:13:43</div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -134,27 +150,6 @@
                                     </div>
                                 </div>
                                 <div class="timestamp">29 Dec 2023, 03:54:11</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">ReitanConvenience/learningbank-bigquery-import</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">develop</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#1d629f8</div>
-                                        <div class="message">revert: <img class="gemoji" src="data:image/png;base64,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" height="16" width="16" alt="" /> Refactor date handling logic for learningpaths status retrieval</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">29 Dec 2023, 03:39:07</div>
                             </section>
                         </div>
                     </section>
