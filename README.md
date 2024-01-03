@@ -29,7 +29,19 @@
 
 <h1 align="center">📜 My Certifications</h1>
 <div align="center">
-    <a href="">
+  <!-- <a href="">
+    <img src="assets/certs/PMLE.png" alt="Professional Machine Learning Engineer" width="150">
+  </a>
+  <a href="">
+    <img src="assets/certs/PDE.png" alt="Professional Data Engineer" width="150">
+  </a>
+  <a href="">
+    <img src="assets/certs/PCDATABASEE.png" alt="Professional Cloud Database Engineer" width="150">
+  </a>
+  <a href="">
+    <img src="assets/certs/PGWA.png" alt="Professional Google Workspace Administrator" width="150">
+  </a> -->
+  <a href="">
     <img src="assets/certs/PCSE.png" alt="Professional Cloud Security Engineer" width="150">
   </a>
   <a href="https://google.accredible.com/7b39b2a0-d978-4dc9-bea1-2f8e7cc3da03">
@@ -54,7 +66,12 @@
     <img src="assets/certs/Terraform.png" alt="Terraform Associate" width="150">
   </a>
 
+  <!---
   
+  
+  -->
+
+
   <details>
     <summary style="font-size: larger; font-weight: bold;">To view more details click here 📜</summary>
     
@@ -71,10 +88,13 @@
   </details>
 </div>
 
-<!---
+<!--- 
+  | Professional Machine Learning Engineer      | ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) | TBD                | TBD                | TBD  |
   | Professional Data Engineer                  | ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) | TBD                | TBD                | TBD  | 
   | Professional Cloud Database Engineer        | ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) | TBD                | TBD                | TBD  |
   | Professional Google Workspace Administrator | ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) | TBD                | TBD                | TBD  |
+  
+  
 -->
 
 
