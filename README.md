@@ -38,7 +38,7 @@
   <a href="">
     <img src="assets/certs/PCDATABASEE.png" alt="Professional Cloud Database Engineer" width="150">
   </a> -->
-  <a href="">
+  <a href="https://google.accredible.com/d8ecb3c2-d742-4c8c-b21e-720e719c3cdb">
     <img src="assets/certs/PGWA.png" alt="Professional Google Workspace Administrator" width="150">
   </a> 
   <a href="https://google.accredible.com/cfc68f46-5d74-495d-aed4-07501dc9c1d6">
