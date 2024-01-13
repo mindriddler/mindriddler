@@ -19,7 +19,6 @@ jobs:
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/Stockholm
           repositories_forks: yes
-          commits_authoring: ${{ vars.BOT_EMAIL }}
 
   
   waka-metrics:
@@ -39,7 +38,6 @@ jobs:
           plugin_wakatime_repositories_visibility: all
           plugin_wakatime_days: 7
           plugin_wakatime_user: mindriddler
-          commits_authoring: ${{ vars.BOT_EMAIL }}
 
   recently-starred:
     runs-on: ubuntu-latest
@@ -54,7 +52,6 @@ jobs:
           base: ""
           plugin_stars: yes
           plugin_stars_limit: 6
-          commits_authoring: ${{ vars.BOT_EMAIL }}
   
   mildly-interesting-facts:
     runs-on: ubuntu-latest
@@ -70,7 +67,6 @@ jobs:
           plugin_habits: yes
           plugin_habits_facts: yes
           plugin_habits_charts: yes
-          commits_authoring: ${{ vars.BOT_EMAIL }}
   
   recent-activity:
     runs-on: ubuntu-latest
@@ -89,7 +85,6 @@ jobs:
           plugin_activity_visibility: all
           plugin_activity_filter: push, issue, pr, ref/create, ref/delete, release, review, comment, fork, public
           plugin_activity_skipped: mindriddler, test, backup, test_gcf
-          commits_authoring: ${{ vars.BOT_EMAIL }}
 
   code-snippet-of-the-day:
     runs-on: ubuntu-latest
@@ -106,7 +101,6 @@ jobs:
         plugin_code_visibility: public
         plugin_code_lines: 64
         plugin_code_skipped: mindriddler
-        commits_authoring: ${{ vars.BOT_EMAIL }}
         
   update-readme:
     name: Update Readme with Metrics
