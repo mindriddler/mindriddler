@@ -19,7 +19,7 @@ jobs:
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/Stockholm
           repositories_forks: yes
-          #committer_token: ${{ secrets.COMMITTER_TOKEN }}
+          committer_token: ${{ secrets.COMMITTER_TOKEN }}
           commits_authoring: "mindriddler-bot"
 
   
@@ -40,6 +40,8 @@ jobs:
           plugin_wakatime_repositories_visibility: all
           plugin_wakatime_days: 7
           plugin_wakatime_user: mindriddler
+          committer_token: ${{ secrets.COMMITTER_TOKEN }}
+          commits_authoring: "mindriddler-bot"
 
   recently-starred:
     runs-on: ubuntu-latest
@@ -54,6 +56,8 @@ jobs:
           base: ""
           plugin_stars: yes
           plugin_stars_limit: 6
+          committer_token: ${{ secrets.COMMITTER_TOKEN }}
+          commits_authoring: "mindriddler-bot"
   
   mildly-interesting-facts:
     runs-on: ubuntu-latest
@@ -69,6 +73,8 @@ jobs:
           plugin_habits: yes
           plugin_habits_facts: yes
           plugin_habits_charts: yes
+          committer_token: ${{ secrets.COMMITTER_TOKEN }}
+          commits_authoring: "mindriddler-bot"
   
   recent-activity:
     runs-on: ubuntu-latest
@@ -87,6 +93,8 @@ jobs:
           plugin_activity_visibility: all
           plugin_activity_filter: push, issue, pr, ref/create, ref/delete, release, review, comment, fork, public
           plugin_activity_skipped: mindriddler, test, backup, test_gcf
+          committer_token: ${{ secrets.COMMITTER_TOKEN }}
+          commits_authoring: "mindriddler-bot"
 
   code-snippet-of-the-day:
     runs-on: ubuntu-latest
@@ -103,6 +111,8 @@ jobs:
         plugin_code_visibility: public
         plugin_code_lines: 64
         plugin_code_skipped: mindriddler
+        committer_token: ${{ secrets.COMMITTER_TOKEN }}
+        commits_authoring: "mindriddler-bot"
         
   update-readme:
     name: Update Readme with Metrics
