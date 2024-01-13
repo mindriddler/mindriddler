@@ -115,7 +115,9 @@ jobs:
           SHOW_LINES_OF_CODE: "False"
           SHOW_LOC_CHART: "False"
           LOCALE: "en"
-          COMMIT_BY_ME: "False"
+          #COMMIT_BY_ME: "False"
+          COMMIT_USERNAME: ${{ vars.BOT_NAME }}
+          COMMIT_EMAIL: ${{ vars.BOT_EMAIL }}
           SHOW_PROFILE_VIEWS: "False"
           SHOW_OS: "False"
           SHOW_TOTAL_CODE_TIME: "False"
