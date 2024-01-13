@@ -19,6 +19,8 @@ jobs:
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/Stockholm
           repositories_forks: yes
+          committer_token: ${{ secrets.COMMITTER_TOKEN }}
+          commits_authoring: "mindriddler-bot"
 
   
   waka-metrics:
