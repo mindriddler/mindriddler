@@ -112,8 +112,8 @@ jobs:
         plugin_code_days: 365
         plugin_code_lines: 64
         plugin_code_skipped: mindriddler
-        committer_token: ${{ secrets.COMMITTER_TOKEN }}
-        commits_authoring: "mindriddler-bot"
+        #committer_token: ${{ secrets.COMMITTER_TOKEN }}
+        #commits_authoring: "mindriddler-bot"
         
   update-readme:
     name: Update Readme with Metrics
