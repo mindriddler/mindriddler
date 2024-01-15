@@ -34,10 +34,10 @@
   </a>
   <a href="">
     <img src="assets/certs/PDE.png" alt="Professional Data Engineer" width="150">
-  </a>
+  </a>  -->
   <a href="">
     <img src="assets/certs/PCDATABASEE.png" alt="Professional Cloud Database Engineer" width="150">
-  </a> -->
+  </a>
   <a href="https://google.accredible.com/d8ecb3c2-d742-4c8c-b21e-720e719c3cdb">
     <img src="assets/certs/PGWA.png" alt="Professional Google Workspace Administrator" width="150">
   </a> 
@@ -77,7 +77,8 @@
     
   | Certification                               | Issuer                                                                                                                           | Date of Completion | Date of Expiration | Link                                                                       |
   |---------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|--------------------|--------------------|----------------------------------------------------------------------------|
-  | Professional Google Workspace Administrator | ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) | 2024-01-10         | 2026-01-10         | [View]() |
+  | Professional Cloud Database Engineer        | ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) | 2024-01-15         | 2026-01-15         | [View]() |
+  | Professional Google Workspace Administrator | ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) | 2024-01-10         | 2026-01-10         | [View](https://google.accredible.com/d8ecb3c2-d742-4c8c-b21e-720e719c3cdb) |
   | Professional Cloud Security Engineer        | ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) | 2024-01-03         | 2026-01-03         | [View](https://google.accredible.com/cfc68f46-5d74-495d-aed4-07501dc9c1d6) |
   | Professional Cloud Network Engineer         | ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) | 2023-12-19         | 2025-12-19         | [View](https://google.accredible.com/7b39b2a0-d978-4dc9-bea1-2f8e7cc3da03) | 
   | Professional Cloud Developer                | ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) | 2023-12-13         | 2025-12-13         | [View](https://google.accredible.com/5ed79c37-3332-442d-8f69-def01a706d1c) |
@@ -92,7 +93,7 @@
 <!--- 
   | Professional Machine Learning Engineer      | ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) | TBD                | TBD                | TBD  |
   | Professional Data Engineer                  | ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) | TBD                | TBD                | TBD  | 
-  | Professional Cloud Database Engineer        | ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) | TBD                | TBD                | TBD  |
+  
   
   
   
