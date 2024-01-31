@@ -32,7 +32,7 @@
   <!-- <a href="">
     <img src="assets/certs/PMLE.png" alt="Professional Machine Learning Engineer" width="150">
   </a>  -->
-  <a href="">
+  <a href="https://google.accredible.com/4f2100ed-4677-404a-9304-4ac4cf8ceca4">
     <img src="assets/certs/PDE.png" alt="Professional Data Engineer" width="150">
   </a>
   <a href="https://google.accredible.com/ea9432e8-e851-4944-b401-30bca59f00fc">
