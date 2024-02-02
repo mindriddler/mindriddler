@@ -101,6 +101,20 @@ jobs:
         plugin_code_lines: 64
         plugin_code_skipped: mindriddler
         
+  leetcode:
+    runs-on: ubuntu
+    permissions:
+      contents: write
+    steps:
+    - uses: lowlighter/metrics@latest
+      with:
+        filename: metrics.plugin.leetcode.svg
+        token: NOT_NEEDED
+        base: ""
+        plugin_leetcode: yes
+        plugin_leetcode_user: mindriddler1
+        plugin_leetcode_sections: solved, skills, recent
+  
   update-readme:
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
