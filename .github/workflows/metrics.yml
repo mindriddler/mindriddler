@@ -108,7 +108,8 @@ jobs:
     steps:
     - uses: lowlighter/metrics@latest
       with:
-        filename: metrics.plugin.leetcode.svg
+        filename: assets/metrics.plugin.leetcode.svg
+        config_timezone: Europe/Stockholm
         token: NOT_NEEDED
         base: ""
         plugin_leetcode: yes
