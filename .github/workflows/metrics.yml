@@ -102,7 +102,7 @@ jobs:
         plugin_code_skipped: mindriddler
         
   leetcode:
-    runs-on: ubuntu
+    runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
