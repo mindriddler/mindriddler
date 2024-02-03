@@ -135,13 +135,19 @@
   <table width="100%">
     <tr>
         <td>
-          <img src="assets/metrics.plugin.code.svg" width="49%">
-        </td>
-        <td>
-          <img src="assets/metrics.plugin.leetcode.svg" width="49%">
+          <img src="assets/metrics.plugin.code.svg">
         </td>
     </tr>
   </table>
+
+  <table width="100%">
+    <tr>
+      <td>
+        <img src="assets/metrics.plugin.leetcode.svg">
+      </td>
+    </tr>
+  </table>
+    
 
 <table width="100%">
     <tr>
