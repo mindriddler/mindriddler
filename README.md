@@ -132,8 +132,8 @@
 <hr>
 
 <h1 align="center">💻 Recent activity</h1>
+  <div align="center">
   <table width="100%">
-    <div align="center">
     <tr>
         <td>
           <img src="assets/metrics.plugin.code.svg">
@@ -142,7 +142,6 @@
   </table>
 
   <table width="100%">
-    <div align="center">
     <tr>
       <td>
         <img src="assets/metrics.plugin.leetcode.svg">
