@@ -16,6 +16,9 @@
   <a href="https://discordapp.com/users/225341664787562496">
     <img src="https://img.shields.io/badge/-mindriddler-blue?style=for-the-badge&logo=discord&logoColor=white" alt="mindriddler">
   </a>
+  <a href="https://google.accredible.com/profile/fredrikmagnusson/wallet">
+    <img src="https://img.shields.io/badge/Certifications-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" alt="Certifications">
+  </a>
 </p>
 
 <p align="center">
@@ -25,7 +28,9 @@
   <img src="https://komarev.com/ghpvc/?username=mindriddler&style=for-the-badge" alt="Profile Views">
 </p>
 
+<!---
 <hr>
+
 
 <h1 align="center">📜 My Certifications</h1>
 <div align="center">
@@ -85,10 +90,8 @@
   | Cloud Digital Leader                        | ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) | 2023-12-11         | 2026-12-11         | [View](https://www.credential.net/224c4c88-56b6-414c-a2ae-232f117e1506)    |
   </details>
 </div>
+--->
 
-<!--- 
-  
--->
 
 
 <hr>
