@@ -170,7 +170,7 @@
   <table align="center" width="100%">
     <tr>
       <td>
-        <img src="assets/metrics.svg" width="100%">
+        <img src="assets/metrics.svg" width="99%">
       </td>
     </tr>
   </table>
