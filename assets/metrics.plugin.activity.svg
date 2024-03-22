@@ -19,6 +19,27 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">ReitanConvenience/kinect</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">DEV-1979/add_tests</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#f4cc8fe</div>
+                                        <div class="message">test: <img class="gemoji" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAACXBIWXMAAAsTAAALEwEAmpwYAAAH6UlEQVR4nO1aS2wb1xV9LRIn/aBBgQJGgDrIogW6qdpFNlmkmyBAN0EXXWXTTbvJouiiaBPEy6aLhigKeFWtjALkI0Wakkf8D4cckvPhzJsfZYqSSFqWP5I/8qcG7Li2A3uKM9AUjmtzhhJJi4QPcABDuvPeu/fd37syIS/xEjOFra2t1x3HOW5Z1oplWV9alnXfsqyWbdufdjqdI2SW0el03jJNs2sYhttut91er+cR/8bPTNNcY4wdI7OIzc3NN2zb7lmW5W5vb7u3bt36Gi9duuTidzBCv99/jcwSXNf9hm3bBdM0PeVv3rz5TMII8ATbtj8hswTHcT6HYufOnXuu8j7PnDkDI9hkVuA4zq8Mw3i0vr4eqDyInGAYxl0yC1hbW/uxYRi3V1ZW3Bs3bgxjgDtk2lEqlb6DhIa4v3r1aijlZyoETNNcZIy5Fy9e9G4/DJEE8c3UJ0HLsj6DIv1+P7Ty8BKUQcZYd6obItu232eMPVxdXQ2t/PXr113kCdM07zqO83MyrWCMHTMMY9dxHHd3dze0AVAhGGOPDcP4DZlWdDqdI4ZhmEh6ly9fDq08egOEi2mafyfTDMuyolDk/PnzoZXf2dnx3wCSKIqvkGmFbdsf67rudrtdL57D8MqVK8j2MMBOu90+SqYVtm2/yxi7j/qNuA+jPOQgzxi7Z9v2O2Ra0W63jzLGtnGTKGNhb39jY8OFx+i6/jsyrRBF8RXDMCTEPV54uNUwRNLTNA2u/899bayq6rcMw/hM07SWrusP4X6MsVar1fpkkg0EY2y+2Wy6m5ub7rVr10IRXeHezTdN03x16E0dx3lb1/UuNobbra2teTUUdRc/Y4ytt9vtsU9UbNv+LfbD3mGVR2lEiWSMXTZN882hNxVF8XVN03pwn62tLS/mniRuAr/TNG0NsmNU/p1ms3kPRkcmf/oczyLkWq0WLumBruvv7WtjwzCOq6rqKYoFn0X8DjK6ro/lMWGa5g9UVb0AN8bD5XnneJrw1L1z/X7fm6uq2va7rEGETLPZ7I5hrPXNZrMpQhF4YNA5fJ49e9ZVFAWMHugAiqI8wPQU3dMgIi5lWYa1fzYy7Qkhmqb9A+ti/aAz+ERXiFyhKIqdz+cPNuhUFOV+GAMg0+KgmqZ9MSrldV3/SJblx3ixhVUeIYJQURTlummabx34ELIsr6BvRs0NIuQURRlJGKiq+lNZlu/4w40w+4OoUrIsf6Vp2gejOAeRZTkiSZLnVrDuIHY6HReyiqIc6G3d7/e/pyhKHzGMuA/a1yc8FfurqvopGRU0TZtrNBqecriJQcRh9w7wxUFm+Yqi5LAOBpVBe/qELL6RJGmJjBqSJPUQV2EOAjlJkvYdBrIs/xUGx2QnrPIwPPKPJEkbnU7nu6PVnhDSaDQi9Xrd66cvXLgwkDg4ZPcTBpIkfViv1x8hlwTt4xPKoxGr1+u3VVX9yciVBxqNxpwoit5TEhsOIupvrVZzG43GUGGgquqParXavxH3MHTQPj5hrFqt9qjRaPyajBP1er2HZgSHCyLk6vV66DDIZDLfrtVqqzAcYjnMHiDaXFxMvV7/Cxk3RFGMVCoVb/qCWx5E9OuQFUUxVBiIopiEPLJ40No+kZSr1Sr24JE4x24AQRDmBEHw6izm7oOIwQMUqtVqgWEgiuJxrItWOmjdJ9fHzVer1XOSJH2fTAqCIPSQoeEFQYRcpVIZGAbVavX9crn8EOUrzJoglEeSFQThblgPGxkqlUqE53nP/XCQQURyguzzDlkqlY7xPL8LN8arLWg9n8gvPM8/LhaLk5/lC4IwVywWvXk6Dj2IiOdSqYSb+tvT6ySTySM8z5swEBJZ0Fo+0WNgf57nX9wsv1Qq9XBr8IIgQq5YLP5fGJTL5WihUPC8JMw6IBIrlC+Xyy92ll8oFCL5fN67OdzyIOJJClme5/8XBqVS6WP8DJ1b0Pc+sRe8pVAo7AiC8GJn+YVCYS6Xy3mxiMZoEHFrULZYLHphUCgU3s3n8/dRIfDEDfoehBzkc7ncPZ7nD8csP5fL9fz4DSLkstlsl+O4o9lsdhuuj1Ia5lsQzVEmk4EBDs8sP5vNRnAo1G7c8iCixEE2k8msZ7NZL4EGfeMTbTG+zWaz8+QwgeO4OY7jvHqM/1wwiDASwgCKwBhB8j6RP/DN8vJyc35+fvhZ/rjBcVwPiiGThyFuPqwsyh2U5zjuSrFYHH6WPwksLi5G0um056Z7fxcYGZFk0+n0A47jfkEOK06dOjWXSqVQl72KMCqi1mPdpaWlP5DDjlQq1Tt9+rRX00dBPIqSySRu/19kGpBKpSKJRMJ7meHxcxCia1xYWHATiUTr5MmTY/sT20hBKZ2Lx+NezKJe75cwINw+Ho/fiMfjb5NpAqW0h8PjBvfLxcVFl1L6FaX0l2TaEIvFItFo1Ov40LIOS+QQfE8pHd0sf9JhEI1Gvbo9rPJoi2OxGJQf/Sx/kojFYj1k72GUR/mklMIAG8lkcvSz/MMcBsJeuaOU3qaUjmeWf5jDIJ1OI+4fUUrHO8ufdBgsLCwEKr+8vOwnvc/JLIFS+kcohp7gecrj8bSX9CYzy58kTpw48RqldBWJ7VlGeEL5bjKZfIPMIqLR6A9hBHgCktzS0pJHhMae23cgQ2YZ8/PzryYSiT9RSo1YLPafaDR6h1JqU0r/jHH4iz7fS7wECYX/AhkET3k+SBoYAAAAAElFTkSuQmCC" height="16" width="16" alt="" /> More work on tests</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">21 Mar 2024, 23:43:42</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
                                     </svg>
                                     <div class="content">
@@ -137,24 +158,6 @@
                                     </div>
                                 </div>
                                 <div class="timestamp">21 Mar 2024, 19:47:30</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Merged
-                                        <span class="issue">#17 Increase page size</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div> in <span class="repo">ReitanConvenience/kinect</span></div>
-                                    <div>1 file changed <span class="code">++2 --2</span></div>
-                                </div>
-                                <div class="timestamp">21 Mar 2024, 19:47:29</div>
                             </section>
                         </div>
                     </section>
