@@ -29,7 +29,7 @@
                                         <span class="repo">ReitanConvenience/pim-bigquery</span>
                                     </div>
                                 </div>
-                                <div class="timestamp">7 May 2024, 20:15:33</div>
+                                <div class="timestamp">8 May 2024, 09:58:36</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -46,7 +46,7 @@
                                         <span class="repo">ReitanConvenience/pim-bigquery</span>
                                     </div>
                                 </div>
-                                <div class="timestamp">7 May 2024, 20:15:25</div>
+                                <div class="timestamp">8 May 2024, 09:58:29</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -63,11 +63,13 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#b582bfc</div>
-                                        <div class="message">🐛 fix: Fix merge query</div>
+                                        <div class="sha">#87e3f89</div>
+                                        <div class="message">🐛 fix: DEV-2076 Fix consupedia SA no access
+
+Closes: DEV-2076</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">7 May 2024, 20:15:22</div>
+                                <div class="timestamp">8 May 2024, 09:58:27</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -78,14 +80,14 @@
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#19 🐛 fix: Fix merge query</span>
+                                        <span class="issue">#21 🐛 fix: DEV-2076 Fix consupedia SA no access</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">ReitanConvenience/pim-bigquery</span></div>
-                                    <div>1 file changed <span class="code">++2 --2</span></div>
+                                    <div>2 files changed <span class="code">++7 --2</span></div>
                                 </div>
-                                <div class="timestamp">7 May 2024, 20:15:21</div>
+                                <div class="timestamp">8 May 2024, 09:58:26</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -96,14 +98,31 @@
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#19 🐛 fix: Fix merge query</span>
+                                        <span class="issue">#21 🐛 fix: DEV-2076 Fix consupedia SA no access</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">ReitanConvenience/pim-bigquery</span></div>
-                                    <div>1 file changed <span class="code">++2 --2</span></div>
+                                    <div>2 files changed <span class="code">++7 --2</span></div>
                                 </div>
-                                <div class="timestamp">7 May 2024, 20:13:05</div>
+                                <div class="timestamp">8 May 2024, 09:57:20</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Deleted
+                      branch
+                                        <span class="code">fix/DEV-2076-fix-consupedia-sa-no-access</span>
+                                        in
+                                        <span class="repo">ReitanConvenience/pim-bigquery</span>
+                                    </div>
+                                </div>
+                                <div class="timestamp">8 May 2024, 09:57:13</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -120,28 +139,13 @@
                                 <div class="details">
                                     <div>on branch <span class="code">develop</span></div>
                                     <div class="commit">
-                                        <div class="sha">#f4f9832</div>
-                                        <div class="message">🐛 fix: Fix merge query</div>
+                                        <div class="sha">#678f57f</div>
+                                        <div class="message">🐛 fix: DEV-2076 Fix consupedia SA no access
+
+Closes: DEV-2076</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">7 May 2024, 20:12:52</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Created new
-                      branch
-                                        <span class="code">develop</span>
-                                        in
-                                        <span class="repo">ReitanConvenience/pim-bigquery</span>
-                                    </div>
-                                </div>
-                                <div class="timestamp">7 May 2024, 19:41:37</div>
+                                <div class="timestamp">8 May 2024, 09:57:08</div>
                             </section>
                         </div>
                     </section>
