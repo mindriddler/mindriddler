@@ -137,18 +137,19 @@
 
 <h1 align="center">💻 Recent activity</h1>
   <div align="center">
-  <table width="100%">
+  <!-- <table width="100%">
     <tr>
         <td>
           <img src="assets/metrics.plugin.code.svg">
         </td>
     </tr>
-  </table>
+  </table> -->
 
   <table width="100%">
     <tr>
       <td>
-        <img src="assets/metrics.plugin.leetcode.svg">
+        <!-- <img src="assets/metrics.plugin.leetcode.svg"> -->
+        <img src="assets/metrics.svg" width="100%">
       </td>
     </tr>
   </table>
@@ -164,8 +165,16 @@
 </table>
 <hr>
 
-
-<details>
+<!-- <table align="center" width="100%"> -->
+<table width="100%">
+  <tr>
+    <td>
+      <!-- <img src="assets/metrics.svg" width="99%"> -->
+      <img src="assets/metrics.plugin.code.svg" width="100%">
+    </td>
+  </tr>
+</table>
+<!-- <details> 
   <summary><h3>🛢️ Some data</h3></summary>
   <table align="center" width="100%">
     <tr>
@@ -173,9 +182,12 @@
         <img src="assets/metrics.svg" width="99%">
       </td>
     </tr>
-  </table>
+  </table> -->
 
   <!--START_SECTION:waka-->
+
+  ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C761%20hrs%2034%20mins-blue) ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.1%20million%20lines%20of%20code-blue)
+
 **I'm an Early 🐤** 
 
 ```text
