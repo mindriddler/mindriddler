@@ -23,7 +23,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>asobti/kube-monkey</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An implementation of Netflix's Chaos Monkey for Kubernetes clusters</div>
@@ -76,7 +76,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>derailed/k9s</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🐶 Kubernetes CLI To Manage Your Clusters In Style!</div>
@@ -129,7 +129,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Alynder/kubedoom</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Kill Kubernetes pods by playing Id's DOOM!</div>
@@ -182,7 +182,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pterodactyl/panel</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Pterodactyl® is a free, open-source game server management panel built with PHP, React, and Go. Designed with security in mind, Pterodactyl runs all game servers in isolated Docker containers while exposing a beautiful and intuitive UI to end users.</div>
@@ -235,7 +235,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ahmetb/kubectl-tree</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">kubectl plugin to browse Kubernetes object hierarchies as a tree 🎄 (star the repo if you are using)</div>
