@@ -185,53 +185,9 @@
   </table> -->
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C292%20hrs%2033%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C292%20hrs%2031%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.7%20million%20lines%20of%20code-blue)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                717 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.98 % 
-🌆 Daytime                3024 commits        ████████████░░░░░░░░░░░░░   46.29 % 
-🌃 Evening                1377 commits        █████░░░░░░░░░░░░░░░░░░░░   21.08 % 
-🌙 Night                  1415 commits        █████░░░░░░░░░░░░░░░░░░░░   21.66 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   1449 commits        ██████░░░░░░░░░░░░░░░░░░░   22.18 % 
-Tuesday                  1243 commits        █████░░░░░░░░░░░░░░░░░░░░   19.03 % 
-Wednesday                894 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.68 % 
-Thursday                 826 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.64 % 
-Friday                   780 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
-Saturday                 706 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
-Sunday                   635 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Stockholm
-
-💬 Programming Languages: 
-Python                   6 hrs 34 mins       ████████████░░░░░░░░░░░░░   46.06 % 
-Other                    1 hr 37 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.42 % 
-JSON                     1 hr 32 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.85 % 
-Terraform                1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
-CSV                      1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 % 
-
-🔥 Editors: 
-VS Code                  14 hrs 16 mins      █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-neovici-export           5 hrs 34 mins       ██████████░░░░░░░░░░░░░░░   39.06 % 
-relex-imports            3 hrs 29 mins       ██████░░░░░░░░░░░░░░░░░░░   24.46 % 
-Unknown Project          2 hrs 21 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.55 % 
-promotions-to-shopflow   1 hr 45 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.33 % 
-payment-service-lb-editio1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
-```
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.9%20million%20lines%20of%20code-blue)
 
 **I Mostly Code in Python** 
 
@@ -246,7 +202,7 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 05/09/2024 10:19:15 UTC
+ Last Updated on 05/09/2024 22:17:24 UTC
 <!--END_SECTION:waka-->
 DISCLAIMER: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
 </div>
