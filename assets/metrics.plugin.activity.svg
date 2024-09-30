@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="640" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="790" class="">
     <defs>
         <style/>
     </defs>
@@ -15,6 +15,104 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 15 commits in
+                                        <span class="repo">ReitanConvenience/google-reviews-bq-import</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">develop</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#07d138e</div>
+                                        <div class="message">🐛 fix: Also fix schedulers</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9eb55d7</div>
+                                        <div class="message">🐛 fix: Fix IAM</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f21328f</div>
+                                        <div class="message">🔨 refactor: Changes</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9261a20</div>
+                                        <div class="message">🔨 refactor: DEV-2249 test</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#06e3013</div>
+                                        <div class="message">🧹 chore: Lets try with py39</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#db8570c</div>
+                                        <div class="message">🐛 fix: Forgot import</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ef733f5</div>
+                                        <div class="message">🔨 refactor: Fix main and add functions_framework</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a77c626</div>
+                                        <div class="message">🐛 fix: Now it shoudl be fixed</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4b2afab</div>
+                                        <div class="message">🧹 chore: Force</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#51e2dd0</div>
+                                        <div class="message">🐛 fix: Fix naming</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#40f2b35</div>
+                                        <div class="message">🔨 refactor: DEV-2249 Changes</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1bcfdeb</div>
+                                        <div class="message">🧹 chore: DEV-2249 Change ReadMe.md to README.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f22d9bf</div>
+                                        <div class="message">🔨 refactor: DEV-2249 Fix .gitignore</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5bcd38c</div>
+                                        <div class="message">🔨 refactor: DEV-2249 Add enviornment to tfvars and variables</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1257d2f</div>
+                                        <div class="message">🔨 refactor: DEV-2249 delete_protection = true in prod</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">30 Sept 2024, 11:13:30</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">ReitanConvenience/google-reviews-bq-import</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">DEV-2249-refactor-cloud-functions</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#9261a20</div>
+                                        <div class="message">🔨 refactor: DEV-2249 test</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">30 Sept 2024, 11:09:46</div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -114,68 +212,6 @@
                                     </div>
                                 </div>
                                 <div class="timestamp">27 Sept 2024, 15:44:18</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 6 commits in
-                                        <span class="repo">ReitanConvenience/google-reviews-bq-import</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">DEV-2249-refactor-cloud-functions</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#06e3013</div>
-                                        <div class="message">🧹 chore: Lets try with py39</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#db8570c</div>
-                                        <div class="message">🐛 fix: Forgot import</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ef733f5</div>
-                                        <div class="message">🔨 refactor: Fix main and add functions_framework</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a77c626</div>
-                                        <div class="message">🐛 fix: Now it shoudl be fixed</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4b2afab</div>
-                                        <div class="message">🧹 chore: Force</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#51e2dd0</div>
-                                        <div class="message">🐛 fix: Fix naming</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">27 Sept 2024, 15:44:05</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">ReitanConvenience/google-reviews-bq-import</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">develop</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#06e3013</div>
-                                        <div class="message">🧹 chore: Lets try with py39</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">27 Sept 2024, 15:39:57</div>
                             </section>
                         </div>
                     </section>
