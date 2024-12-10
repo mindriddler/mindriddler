@@ -185,7 +185,7 @@
   </table> -->
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C456%20hrs%2042%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C454%20hrs%2015%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.2%20million%20lines%20of%20code-blue)
 
@@ -216,14 +216,17 @@ Sunday                   586 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Stockholm
 
 💬 Programming Languages: 
-JSON                     2 mins              █████████████████████████   98.68 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
+YAML                     2 hrs 27 mins       █████████████████████████   98.42 % 
+JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-VS Code                  2 mins              █████████████████████████   100.00 % 
+Micro                    2 hrs 27 mins       █████████████████████████   98.42 % 
+VS Code                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
 
 🐱‍💻 Projects: 
-Minecraft                2 mins              █████████████████████████   100.00 % 
+npm-build                2 hrs 27 mins       █████████████████████████   98.42 % 
+Minecraft                2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
 ```
 
 **I Mostly Code in Python** 
@@ -239,7 +242,7 @@ PHP                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 09/12/2024 22:13:55 UTC
+ Last Updated on 10/12/2024 10:17:38 UTC
 <!--END_SECTION:waka-->
 DISCLAIMER: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
 </div>
