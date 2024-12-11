@@ -216,17 +216,13 @@ Sunday                   586 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Stockholm
 
 💬 Programming Languages: 
-YAML                     2 hrs 27 mins       █████████████████████████   98.42 % 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+YAML                     2 hrs 27 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Micro                    2 hrs 27 mins       █████████████████████████   98.42 % 
-VS Code                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
+Micro                    2 hrs 27 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-npm-build                2 hrs 27 mins       █████████████████████████   98.42 % 
-Minecraft                2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
+npm-build                2 hrs 27 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -242,7 +238,7 @@ PHP                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 10/12/2024 22:13:39 UTC
+ Last Updated on 11/12/2024 10:15:46 UTC
 <!--END_SECTION:waka-->
 DISCLAIMER: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
 </div>
