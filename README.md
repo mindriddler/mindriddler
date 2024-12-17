@@ -189,6 +189,43 @@
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.2%20million%20lines%20of%20code-blue)
 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                269 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+🌆 Daytime                1543 commits        █████████░░░░░░░░░░░░░░░░   35.84 % 
+🌃 Evening                1144 commits        ███████░░░░░░░░░░░░░░░░░░   26.57 % 
+🌙 Night                  1349 commits        ████████░░░░░░░░░░░░░░░░░   31.34 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   1085 commits        ██████░░░░░░░░░░░░░░░░░░░   25.20 % 
+Tuesday                  629 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
+Wednesday                565 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.12 % 
+Thursday                 380 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.83 % 
+Friday                   477 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.08 % 
+Saturday                 583 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
+Sunday                   586 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.61 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Stockholm
+
+💬 Programming Languages: 
+YAML                     2 hrs 16 mins       █████████████████████████   99.58 % 
+Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
+
+🔥 Editors: 
+Micro                    2 hrs 16 mins       █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+npm-build                2 hrs 16 mins       █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -202,7 +239,7 @@ PHP                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 17/12/2024 10:17:48 UTC
+ Last Updated on 17/12/2024 22:13:20 UTC
 <!--END_SECTION:waka-->
 DISCLAIMER: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
 </div>
