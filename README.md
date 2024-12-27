@@ -185,7 +185,7 @@
   </table> -->
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C460%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C459%20hrs%2020%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.2%20million%20lines%20of%20code-blue)
 
@@ -216,16 +216,17 @@ Sunday                   586 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Stockholm
 
 💬 Programming Languages: 
-SSH Config               9 mins              ████████████░░░░░░░░░░░░░   47.61 % 
-Other                    9 mins              ████████████░░░░░░░░░░░░░   46.36 % 
-Bash                     1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
+Other                    37 mins             ████████████████░░░░░░░░░   62.37 % 
+SSH Config               13 mins             ██████░░░░░░░░░░░░░░░░░░░   22.54 % 
+PacmanConf               7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.02 % 
+Bash                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
 
 🔥 Editors: 
-VS Code                  12 mins             ██████████████░░░░░░░░░░░   57.49 % 
-Micro                    8 mins              ███████████░░░░░░░░░░░░░░   42.51 % 
+Micro                    44 mins             ███████████████████░░░░░░   74.06 % 
+VS Code                  15 mins             ██████░░░░░░░░░░░░░░░░░░░   25.94 % 
 
 🐱‍💻 Projects: 
-Unknown Project          20 mins             █████████████████████████   100.00 % 
+Unknown Project          1 hr                █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -241,7 +242,7 @@ PHP                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 26/12/2024 22:12:25 UTC
+ Last Updated on 27/12/2024 10:13:47 UTC
 <!--END_SECTION:waka-->
 DISCLAIMER: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
 </div>
