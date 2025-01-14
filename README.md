@@ -185,7 +185,7 @@
   </table> -->
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C462%20hrs%2051%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C462%20hrs%2028%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.1%20million%20lines%20of%20code-blue)
 
@@ -216,15 +216,19 @@ Sunday                   269 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Stockholm
 
 💬 Programming Languages: 
-Bash                     1 hr 1 min          █████████████████████░░░░   83.93 % 
-TOML                     9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
-Other                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+Bash                     1 hr 1 min          ████████████████░░░░░░░░░   63.59 % 
+YAML                     15 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.24 % 
+TOML                     9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.37 % 
+INI                      7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 % 
+Other                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
 
 🔥 Editors: 
-Micro                    1 hr 13 mins        █████████████████████████   100.00 % 
+Micro                    1 hr 20 mins        █████████████████████░░░░   83.76 % 
+VS Code                  15 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.24 % 
 
 🐱‍💻 Projects: 
-Unknown Project          1 hr 13 mins        █████████████████████████   100.00 % 
+Unknown Project          1 hr 20 mins        █████████████████████░░░░   83.76 % 
+relex-imports            15 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.24 % 
 ```
 
 **I Mostly Code in Python** 
@@ -240,7 +244,7 @@ PHP                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 13/01/2025 22:16:29 UTC
+ Last Updated on 14/01/2025 10:18:33 UTC
 <!--END_SECTION:waka-->
 DISCLAIMER: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
 </div>
