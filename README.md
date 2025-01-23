@@ -185,7 +185,7 @@
   </table> -->
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C469%20hrs%2034%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C468%20hrs%203%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.7%20million%20lines%20of%20code-blue)
 
@@ -216,16 +216,19 @@ Sunday                   321 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Stockholm
 
 💬 Programming Languages: 
-Bash                     4 hrs 7 mins        ████████████████████░░░░░   79.23 % 
-Other                    1 hr                █████░░░░░░░░░░░░░░░░░░░░   19.28 % 
-TOML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
+Bash                     4 hrs 7 mins        ███████████████░░░░░░░░░░   61.22 % 
+Python                   1 hr 5 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.26 % 
+Other                    1 hr 3 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.61 % 
+TOML                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
+Git Config               7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
 
 🔥 Editors: 
-Micro                    3 hrs 50 mins       ███████████████████░░░░░░   74.01 % 
-VS Code                  1 hr 21 mins        ██████░░░░░░░░░░░░░░░░░░░   25.99 % 
+Micro                    3 hrs 59 mins       ███████████████░░░░░░░░░░   59.28 % 
+VS Code                  2 hrs 44 mins       ██████████░░░░░░░░░░░░░░░   40.72 % 
 
 🐱‍💻 Projects: 
-dotfiles                 5 hrs 12 mins       █████████████████████████   100.00 % 
+dotfiles                 5 hrs 19 mins       ████████████████████░░░░░   79.02 % 
+nier-to-bigquery         1 hr 24 mins        █████░░░░░░░░░░░░░░░░░░░░   20.98 % 
 ```
 
 **I Mostly Code in Python** 
@@ -241,7 +244,7 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 22/01/2025 22:19:41 UTC
+ Last Updated on 23/01/2025 10:21:32 UTC
 <!--END_SECTION:waka-->
 DISCLAIMER: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
 </div>
