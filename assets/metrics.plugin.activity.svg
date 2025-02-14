@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="642" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="607" class="">
     <defs>
         <style/>
     </defs>
@@ -22,24 +22,39 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">ReitanConvenience/rcs-terraform-master</span>
+                                        Pushed 1 commit in
+                                        <span class="repo">ReitanConvenience/foptec-bigquery-import</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
+                                    <div>on branch <span class="code">DEV-2385-view-query-updates</span></div>
                                     <div class="commit">
-                                        <div class="sha">#aa89929</div>
-                                        <div class="message">Merge pull request #24 from ReitanConvenience/DEV-2561-workload-identity
-
-🐛 fix: DEV-2561 Dont use GOOGLE_CREDENTIALS anymore</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9837cbd</div>
-                                        <div class="message">🐛 fix: DEV-2561 Dont use GOOGLE_CREDENTIALS anymore</div>
+                                        <div class="sha">#104e4a1</div>
+                                        <div class="message">🐛 fix: DEV-2385 Fixes for the view</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">13 Feb 2025, 13:45:22</div>
+                                <div class="timestamp">14 Feb 2025, 16:15:03</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">ReitanConvenience/foptec-bigquery-import</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">develop</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#104e4a1</div>
+                                        <div class="message">🐛 fix: DEV-2385 Fixes for the view</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">14 Feb 2025, 16:14:46</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -50,56 +65,14 @@
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#24 🐛 fix: DEV-2561 Dont use GOOGLE_CREDENTIALS anymore</span>
+                                        <span class="issue">#16 🐛 fix: DEV-2385 Fixes for the view</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div> in <span class="repo">ReitanConvenience/rcs-terraform-master</span></div>
-                                    <div>2 files changed <span class="code">++5 --5</span></div>
+                                    <div> in <span class="repo">ReitanConvenience/foptec-bigquery-import</span></div>
+                                    <div>2 files changed <span class="code">++2 --2</span></div>
                                 </div>
-                                <div class="timestamp">13 Feb 2025, 13:45:21</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">ReitanConvenience/rcs-terraform-master</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">DEV-2561-workload-identity</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#9837cbd</div>
-                                        <div class="message">🐛 fix: DEV-2561 Dont use GOOGLE_CREDENTIALS anymore</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">13 Feb 2025, 13:39:51</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">ReitanConvenience/rcs-terraform-master</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">DEV-2561-workload-identity</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#1d1d3ff</div>
-                                        <div class="message">DEV-2561 akdad</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">13 Feb 2025, 13:39:40</div>
+                                <div class="timestamp">14 Feb 2025, 16:14:45</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -110,14 +83,14 @@
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#24 🐛 fix: DEV-2561 Dont use GOOGLE_CREDENTIALS anymore</span>
+                                        <span class="issue">#16 🐛 fix: DEV-2385 Fixes for the view</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div> in <span class="repo">ReitanConvenience/rcs-terraform-master</span></div>
-                                    <div>1 file changed <span class="code">++2 --2</span></div>
+                                    <div> in <span class="repo">ReitanConvenience/foptec-bigquery-import</span></div>
+                                    <div>2 files changed <span class="code">++2 --2</span></div>
                                 </div>
-                                <div class="timestamp">13 Feb 2025, 13:38:43</div>
+                                <div class="timestamp">14 Feb 2025, 16:14:41</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -128,17 +101,17 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">ReitanConvenience/rcs-terraform-master</span>
+                                        <span class="repo">ReitanConvenience/foptec-bigquery-import</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">DEV-2561-workload-identity</span></div>
+                                    <div>on branch <span class="code">DEV-2385-view-query-updates</span></div>
                                     <div class="commit">
-                                        <div class="sha">#b80c3ba</div>
-                                        <div class="message">🐛 fix: DEV-2561 Dont use GOOGLE_CREDENTIALS anymore</div>
+                                        <div class="sha">#ce360e6</div>
+                                        <div class="message">🐛 fix: DEV-2385 Fixes for the view</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">13 Feb 2025, 13:38:30</div>
+                                <div class="timestamp">14 Feb 2025, 16:12:53</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -148,24 +121,39 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">ReitanConvenience/rcs-terraform-master</span>
+                                        Pushed 1 commit in
+                                        <span class="repo">ReitanConvenience/foptec-bigquery-import</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
+                                    <div>on branch <span class="code">DEV-2385-view-query-updates</span></div>
                                     <div class="commit">
-                                        <div class="sha">#8acd1d6</div>
-                                        <div class="message">Merge pull request #23 from ReitanConvenience/DEV-2561-workload-identity
-
-✨ feat: DEV-2561 Workload identity</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5ec0fe5</div>
-                                        <div class="message">✨ feat: DEV-2561 Workload identity</div>
+                                        <div class="sha">#76f1439</div>
+                                        <div class="message">🔨 refactor: DEV-2385 Add view to terraform instead</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">13 Feb 2025, 11:07:19</div>
+                                <div class="timestamp">14 Feb 2025, 16:03:00</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">ReitanConvenience/foptec-bigquery-import</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">develop</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#76f1439</div>
+                                        <div class="message">🔨 refactor: DEV-2385 Add view to terraform instead</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">14 Feb 2025, 16:02:32</div>
                             </section>
                         </div>
                     </section>
