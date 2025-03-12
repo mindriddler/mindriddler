@@ -137,4 +137,4 @@ jobs:
           SHOW_TOTAL_CODE_TIME: "True"
           SHOW_SHORT_INFO: "False"
           SYMBOL_VERSION: 2
-          IGNORED_REPOS: mindriddler
+          IGNORED_REPOS: mindriddler, pc-setup
