@@ -39,19 +39,19 @@ jobs:
           plugin_wakatime_days: 7
           plugin_wakatime_user: mindriddler
 
-  recently-starred:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - uses: lowlighter/metrics@latest
-        with:
-          config_timezone: Europe/Stockholm
-          filename: assets/metrics.plugin.stars.svg
-          token: ${{ secrets.GH_TOKEN }}
-          base: ""
-          plugin_stars: yes
-          plugin_stars_limit: 6
+#  recently-starred:
+#    runs-on: ubuntu-latest
+#    permissions:
+#      contents: write
+#    steps:
+#      - uses: lowlighter/metrics@latest
+#        with:
+#          config_timezone: Europe/Stockholm
+#          filename: assets/metrics.plugin.stars.svg
+#          token: ${{ secrets.GH_TOKEN }}
+#          base: ""
+#          plugin_stars: yes
+#          plugin_stars_limit: 6
   
   mildly-interesting-facts:
     runs-on: ubuntu-latest
@@ -68,23 +68,23 @@ jobs:
           plugin_habits_facts: yes
           plugin_habits_charts: yes
   
-  recent-activity:
-    runs-on: ubuntu-latest
-    permissions:
-        contents: write
-    steps:
-      - uses: lowlighter/metrics@latest
-        with:
-          config_timezone: Europe/Stockholm
-          filename: assets/metrics.plugin.activity.svg
-          token: ${{ secrets.GH_TOKEN }}
-          base: ""
-          plugin_activity: yes
-          plugin_activity_limit: 7
-          plugin_activity_timestamps: yes
-          plugin_activity_visibility: public
-          plugin_activity_filter: push, issue, pr, ref/create, ref/delete, release, review, comment, fork, public
-          plugin_activity_skipped: mindriddler, test, backup, test_gcf
+#  recent-activity:
+#    runs-on: ubuntu-latest
+#    permissions:
+#        contents: write
+#    steps:
+#      - uses: lowlighter/metrics@latest
+#        with:
+#          config_timezone: Europe/Stockholm
+#          filename: assets/metrics.plugin.activity.svg
+#          token: ${{ secrets.GH_TOKEN }}
+#          base: ""
+#          plugin_activity: yes
+#          plugin_activity_limit: 7
+#          plugin_activity_timestamps: yes
+#          plugin_activity_visibility: public
+#          plugin_activity_filter: push, issue, pr, ref/create, ref/delete, release, review, comment, fork, public
+#          plugin_activity_skipped: mindriddler, test, backup, test_gcf
 
   code-snippet-of-the-day:
     runs-on: ubuntu-latest
@@ -119,7 +119,7 @@ jobs:
   update-readme:
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
-    needs: [github-metrics, waka-metrics, recently-starred, mildly-interesting-facts, recent-activity, code-snippet-of-the-day, leetcode]
+    needs: [github-metrics, waka-metrics, mildly-interesting-facts, code-snippet-of-the-day, leetcode]
     steps:
       - uses: anmol098/waka-readme-stats@master
         with:
