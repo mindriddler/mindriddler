@@ -158,8 +158,8 @@
 <table width="100%">
     <tr>
         <td>
-            <img src="assets/metrics.plugin.activity.svg" width="49%">
-            <img src="assets/metrics.plugin.stars.svg" width="49%">
+            <!--<img src="assets/metrics.plugin.activity.svg" width="49%">-->
+            <img src="assets/metrics.plugin.stars.svg" width="100%">
         </td>
     </tr>
 </table>
