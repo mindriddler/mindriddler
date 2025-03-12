@@ -84,7 +84,7 @@ jobs:
           plugin_activity_timestamps: yes
           plugin_activity_visibility: all
           plugin_activity_filter: push, issue, pr, ref/create, ref/delete, release, review, comment, fork, public
-          #plugin_activity_skipped: mindriddler, test, backup, test_gcf
+          plugin_activity_skipped: mindriddler, test, backup, test_gcf
 
   code-snippet-of-the-day:
     runs-on: ubuntu-latest
@@ -125,7 +125,7 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          SHOW_PROJECTS: "True"
+          SHOW_PROJECTS: "False"
           SHOW_LINES_OF_CODE: "True"
           SHOW_LOC_CHART: "False"
           LOCALE: "en"
