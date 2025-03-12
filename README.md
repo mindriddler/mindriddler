@@ -104,7 +104,7 @@
         Currently Playing
     </h3>
     <a href="https://open.spotify.com/playlist/62RKQoCghY0ZJ4hK3Tmq9c?si=6a9b1c5833734776">
-        <img src="https://spotify-github-profile.vercel.app/api/view?uid=johannahedlund&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false">
+        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=johannahedlund&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false">
     </a>
 </div>
 <hr>
@@ -224,13 +224,6 @@ Terraform                1 hr 33 mins        ██░░░░░░░░░�
 
 🔥 Editors: 
 VS Code                  17 hrs 48 mins      █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-rc-product-service       10 hrs 30 mins      ███████████████░░░░░░░░░░   58.98 % 
-norstat-to-bigquery-impor3 hrs 46 mins       █████░░░░░░░░░░░░░░░░░░░░   21.18 % 
-rcs-passport             1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
-rcs-passport-shop-sync   39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
-test-github-wif-2        30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
 ```
 
 **I Mostly Code in Python** 
