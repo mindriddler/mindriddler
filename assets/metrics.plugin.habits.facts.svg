@@ -17,7 +17,7 @@
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 70.8 characters per line of code written</li>
+                        <li>Has approximately 70.5 characters per line of code written</li>
                         <li>Mostly pushes code around 10:00</li>
                         <li>Mostly active on Wednesday</li>
                     </ul>
@@ -195,17 +195,17 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Python</span>
-                                <div class="bar" style="width: 28.867896574835093%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <div class="bar" style="width: 28.82356670400034%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 <span class="value">36%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">HCL</span>
-                                <div class="bar" style="width: 23.812762354933152%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <div class="bar" style="width: 23.77619520579306%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 <span class="value">30%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Shell</span>
-                                <div class="bar" style="width: 4.407210130868814%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 4.4004423687862335%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">6%</span>
                             </div>
                         </div>
