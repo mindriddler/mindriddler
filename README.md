@@ -1,3 +1,4 @@
+
 ![Make your README](assets/banner.png)
 
 <h2 align="center"><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you!</b> 😊</h2>
