@@ -16,7 +16,7 @@
   <a href="https://discordapp.com/users/225341664787562496">
     <img src="https://img.shields.io/badge/-mindriddler-blue?style=for-the-badge&logo=discord&logoColor=white" alt="mindriddler">
   </a>
-  <a href="https://google.accredible.com/profile/fredrikmagnusson/wallet">
+  <a href="https://www.credly.com/users/fredrikm/">
     <img src="https://img.shields.io/badge/Certifications-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" alt="Certifications">
   </a>
 </p>
