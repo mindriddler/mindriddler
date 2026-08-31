@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio">
   </a>
   <a href="mailto:fredrikmagnusson3@gmail.com">
-    <img src="https://img.shields.io/badge/-fredrikmagnusson3@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+    <img src="https://img.shields.io/badge/-fredrikhedlund4@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
   <a href="https://discordapp.com/users/225341664787562496">
     <img src="https://img.shields.io/badge/-mindriddler-blue?style=for-the-badge&logo=discord&logoColor=white" alt="mindriddler">
